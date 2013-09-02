@@ -1,0 +1,1 @@
+A collection of Euler problems solved in go
